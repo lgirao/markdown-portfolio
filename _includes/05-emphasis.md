@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Below is a _list_ of my **technical skills**:
+
+## What I've learned so far
+- HTML
+- CSS
+- JavaScript
+
+## What I want to learn more of
+- JavaScript
+- Python
